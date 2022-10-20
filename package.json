@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "myPortfolio with Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abjanii/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abjanii/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Abjanii/Portfolio#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
